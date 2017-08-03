@@ -18,11 +18,16 @@ test test
 
 6
 ![](./logo.svg)
-![](./master/logo.svg)
+![](./fonts/horizontal_swing_auto_icon.svg)
 
 7
 ![](/logo.svg)
-![](/master/logo.svg)
 
 8
 ![](https://cdn.rawgit.com/simplyandrew/improved-dollop/d594c722/fonts/icomoon.svg)
+
+9
+![](./fonts/horizontal_swing_auto_icon.svg)
+
+10
+![](https://cdn.rawgit.com/simplyandrew/improved-dollop/01d29978/fonts/horizontal_swing_auto_icon.svg)
