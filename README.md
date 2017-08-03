@@ -1,4 +1,4 @@
 # improved-dollop
 test test
 
-![Alt text](/path/to/img.jpg)
+![Alt text](./fonts/icomoon.svg)
