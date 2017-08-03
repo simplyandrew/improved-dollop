@@ -1,4 +1,6 @@
 # improved-dollop
 test test
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/simplyandrew/improved-dollop/blob/master/fonts/icomoon.svg)
+<img src="https://github.com/simplyandrew/improved-dollop/blob/master/fonts/icomoon.svg">
+
