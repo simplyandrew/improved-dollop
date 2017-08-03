@@ -12,3 +12,12 @@ test test
 
 4
 ![](https://cdn.rawgit.com/simplyandrew/improved-dollop/14cfa0d8/logo.svg)
+
+5
+![](https://github.com/simplyandrew/improved-dollop/blob/master/logo.svg)
+
+6
+![](./logo.svg)
+
+7
+![](/logo.svg)
