@@ -21,6 +21,7 @@ test test
 ![](./master/logo.svg)
 
 7
+![](/logo.svg)
 ![](/master/logo.svg)
 
 8
