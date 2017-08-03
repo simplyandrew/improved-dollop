@@ -18,6 +18,10 @@ test test
 
 6
 ![](./logo.svg)
+![](./master/logo.svg)
 
 7
-![](/logo.svg)
+![](/master/logo.svg)
+
+8
+![](https://cdn.rawgit.com/simplyandrew/improved-dollop/d594c722/fonts/icomoon.svg)
