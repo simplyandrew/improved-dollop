@@ -11,4 +11,4 @@ test test
 ![](https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg)
 
 4
-![](https://github.com/simplyandrew/improved-dollop/blob/master/logo.svg)
+![](https://cdn.rawgit.com/simplyandrew/improved-dollop/14cfa0d8/logo.svg)
