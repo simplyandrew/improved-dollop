@@ -1,6 +1,12 @@
 # improved-dollop
 test test
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 1             | icon-         | ![](https://cdn.rawgit.com/simplyandrew/improved-dollop/01d29978/fonts/horizontal_swing_auto_icon.svg) |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 1
 ![Alt text](https://github.com/simplyandrew/improved-dollop/blob/master/fonts/icomoon.svg)
 
