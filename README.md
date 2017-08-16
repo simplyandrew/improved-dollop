@@ -1,7 +1,7 @@
 # improved-dollop
 test test
 
-[create an anchor](#step-9---look-at-me)
+[**test**](#step-9---look-at-me)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
