@@ -1,7 +1,7 @@
 # improved-dollop
 test test
 
-[create an anchor](#step-9---look-at-me)
+[create an anchor](##step-9---look-at-me)
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -34,7 +34,7 @@ test test
 8
 ![](https://cdn.rawgit.com/simplyandrew/improved-dollop/d594c722/fonts/icomoon.svg)
 
-# step 9 - look at me
+## step 9 - look at me
 ![](./fonts/horizontal_swing_auto_icon.svg)
 
 10
